@@ -1,0 +1,1 @@
+Simple JMX app on Spring for learning.
